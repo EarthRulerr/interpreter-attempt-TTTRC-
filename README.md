@@ -36,3 +36,12 @@ k l m n o<br>
 p q r s t<br>
 u v w x z<br>
 ### Tokens
+* <code>^</code>: Go up.
+* <code>></code>: Go right. 
+* <code>v</code>: Go down. 
+* <code><</code>: Go left. 
+* <code>+</code>: Go up and go right. 
+* <code>-</code>: Go down and go right. 
+* <code>*</code>: Go down and go left. 
+* <code>/</code>: Go up and go left. 
+* You must land on the top right center and you must start at the bottom left.
