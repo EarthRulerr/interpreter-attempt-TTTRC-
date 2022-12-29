@@ -16,7 +16,9 @@ a b c d e<br>
 f g h i j<br>
 k IFK m n o<br>
 p q r IFK t<br>
-u v w x z<br:
+u v w x z<br>
+
+<i>IFK means Input From Keyboard</i>
 ### Tokens
 * <code>↑</code>: Go up. (<code>^</code> for ASCII)
 * <code>→</code>: Go right. (<code><nowiki>></nowiki></code> for ASCII)
