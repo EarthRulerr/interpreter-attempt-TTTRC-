@@ -44,4 +44,5 @@ u v w x z<br>
 * <code>-</code>: Go down and go right. 
 * <code>*</code>: Go down and go left. 
 * <code>/</code>: Go up and go left. 
-* You must land on the top right center and you must start at the bottom left.
+* <code>.</code>: Print to console.
+* You must start at the bottom left.
